@@ -1,0 +1,15 @@
+Math 51
+Math 52
+Math 53
+Physics 41
+Physics 43
+CEE 70
+CS 181W
+ENGR 40M
+CS 106B
+CS 103
+CS 109
+CS 107
+CS 110
+CS 161
+CS 210B
